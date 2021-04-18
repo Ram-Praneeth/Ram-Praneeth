@@ -1,6 +1,6 @@
 - 👋 I’m @Ram-Praneeth
 - 👀 I’m interested in SAP ABAP
-- 🌱 I’m currently learning ABAP on CLoud
+- 🌱 I’m currently learning RESTful ABAP Programming(RAP)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
